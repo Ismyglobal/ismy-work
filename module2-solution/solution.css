@@ -78,6 +78,7 @@ p{
     .col-sm-12 {
         float: left;
       width: 100%;
+      padding-bottom: 15px;
     }
     .content-name{
       margin-right: 30px;
